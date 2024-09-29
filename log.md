@@ -14,3 +14,5 @@ Today I:
 ** Worked on first 20/91 steps in the FreeCodeCamp course "Learn Basic CSS 
 by Building a Cafe Menu
 
+### Day 2: September 28, 2024
+*** Working on Zenva HTML5 + CSS3 course. Completed the course.
