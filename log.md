@@ -27,4 +27,10 @@ by Building a Cafe Menu
 3. [Use the FARM Stack to Develop Full Stack] )https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/)
 
 ### Day 5: October 1, 2024
-*** Working on Zenva HTML5 + CSS3 course  
+*** Working on Zenva HTML5 + CSS3 course - Completed the Course
+It was an archived course but I was able to start and finish it in four days.
+
+I found a great article: [Learn CSS by Playing Games](https://medium.com/geekculture/learn-css-by-playing-games-cf70a79a38)
+I will need to learn a bit more about CSS before pursuing some of these games. Like most courses
+this one was very good but did not cover all the aspects of HTML5 and CSS 3. 
+For example, It did not cover Flexbox and other CSS3 style rules.
