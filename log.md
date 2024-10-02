@@ -34,3 +34,8 @@ I found a great article: [Learn CSS by Playing Games](https://medium.com/geekcul
 I will need to learn a bit more about CSS before pursuing some of these games. Like most courses
 this one was very good but did not cover all the aspects of HTML5 and CSS 3. 
 For example, It did not cover Flexbox and other CSS3 style rules.
+
+### Day 6: October 2, 2024
+
+*** Worked on Coursera AWS Specialization course
+*** Completed Chapter 4 in Python Workshop (just awful!)
