@@ -1,9 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: October 3, 2024
+- Worked on Coursera AWS Specialization course - Completed Lab #1
+- Continue working on  FreeCodeCamp Course - Learn Basic CSS by Building a Cafe Menu (61/91 steps)
+
+
 ### Day 6: October 2, 2024
 - Worked on Coursera AWS Specialization course
 - Completed Chapter 4 in Python Workshop (just awful!)
-- Continue working on  FreeCodeCamp Course - Learn Basic CSS by Building a Cafe Menu (/91 steps)
+- Continue working on  FreeCodeCamp Course - Learn Basic CSS by Building a Cafe Menu (30/91 steps)
 
 ### Day 5: October 1, 2024
 -  Working on Zenva HTML5 + CSS3 course - Completed the Course
