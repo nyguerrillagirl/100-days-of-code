@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 8: October 5, 2024
+-- Completed FreeCodeCamp Course - Learn Basic CSS by Building a Cafe Menu (91/91 steps)
+
+
 ### Day 8: October 4, 2024
 -- Unable to do any coding today :(
 
