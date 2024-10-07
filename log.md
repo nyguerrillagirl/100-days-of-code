@@ -1,11 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 9: October 6, 2024
+- Started the course "Learn CSS Colors a Set of Colored Markers" as
+part of the Responsive Web Design 
+
 ### Day 8: October 5, 2024
--- Completed FreeCodeCamp Course - Learn Basic CSS by Building a Cafe Menu (91/91 steps)
+- Completed FreeCodeCamp Course - Learn Basic CSS by Building a Cafe Menu (91/91 steps)
 
 
 ### Day 8: October 4, 2024
--- Unable to do any coding today :(
+- Unable to do any coding today :(
 
 ### Day 7: October 3, 2024
 - Worked on Coursera AWS Specialization course - Completed Lab #1
