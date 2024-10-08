@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 10: October 7, 2024
+- Completed 22/94 steps in Colored Markers project
+
 ### Day 9: October 6, 2024
 - Started the course "Learn CSS Colors a Set of Colored Markers" as
 part of the Responsive Web Design 
