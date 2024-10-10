@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 11: October 7, 2024
+
+
+### Day 12: October 9, 2024
+- Worked on Chapter 5 in Python Workshop
+- Took 5-hour course from O'Reilly Learning: Intermediate Python Classes
+
+### Day 11: October 8, 2024
 - Completed 35/94 steps in Colored Markers project
 
 ### Day 10: October 7, 2024
