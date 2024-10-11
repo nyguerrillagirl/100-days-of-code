@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
-
+### Day 13: October 10, 2024
+- Completed Chapter 5 in Python Workshop
+- Completed 90/94 steps in Colored Markers project
 
 ### Day 12: October 9, 2024
 - Worked on Chapter 5 in Python Workshop
