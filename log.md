@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 15: October 11, 2024
+- Started the Registration Form Project 17/65
+- Completed 94/94 in Colored Markers Project from FreeCodeCamp
+ see [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+ I find the Colored Markers Project a good start to learning the power and scope
+ of CSS. I plan on reading two books in order to learn more of HTML5 and CSS3.
+ 
+ I also plan on reading a book on UX principles and returning to the Bootstrap Course!
+
 ### Day 14: October 10, 2024
 - Completed Chapter 5 in Python Workshop
 - Completed 90/94 steps in Colored Markers project
