@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 16: October 12, 2024
+- Completed the Registration Form Project 65/65
+- Signed up for Coursera Course: Meta Front-End Developer Professional Certificate
+- Completed Module 1 of 1/9 courses Introduction to Front-End Development
+- Started to look at "Build a Survey Form"
+
+
 ### Day 15: October 11, 2024
 - Started the Registration Form Project 17/65
 - Completed 94/94 in Colored Markers Project from FreeCodeCamp
