@@ -1,7 +1,8 @@
 # 100 Days Of Code - Log
 
 ### Day 17: October 13, 2024
-- Initial "Build a Survey" HTML page
+- Initial "Build a Survey" HTML page (copilot helped...)
+- Completed Module 2 of 1/9 courses Introduction to Front-End Development
 
 ### Day 16: October 12, 2024
 - Completed the Registration Form Project 65/65
