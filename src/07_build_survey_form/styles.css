@@ -1,0 +1,16 @@
+body {
+    background-image: url("survey_background.png");
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.survey-form {
+    background-color: #0d0d3d;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 95%;
+}

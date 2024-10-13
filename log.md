@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 17: October 13, 2024
+- Initial "Build a Survey" HTML page
+
 ### Day 16: October 12, 2024
 - Completed the Registration Form Project 65/65
 - Signed up for Coursera Course: Meta Front-End Developer Professional Certificate
