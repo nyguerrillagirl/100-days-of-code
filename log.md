@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 19: October 15, 2024
+
+### Day 18: October 14, 2024
+- Took 5 hour course Oreilly Learning - Architecture Foundations
+- Discovered https://martinfowler.com/ and was reading about LMAX
+- 
+
 ### Day 17: October 13, 2024
 - Initial "Build a Survey" HTML page (copilot helped...)
 - Completed Module 2 of 1/9 courses Introduction to Front-End Development
