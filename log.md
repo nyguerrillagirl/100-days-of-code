@@ -1,7 +1,10 @@
 # 100 Days Of Code - Log
 
 ### Day 19: October 15, 2024
-
+- Reviewd Architecture notes
+- Worked on Module 3 of 1/9 courses Introduction to Front-End Development
+- Started working on Mineswee[er game (using HTML+CSS+JavaScript
+)
 ### Day 18: October 14, 2024
 - Took 5 hour course Oreilly Learning - Architecture Foundations
 - Discovered https://martinfowler.com/ and was reading about LMAX
