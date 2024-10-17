@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 20: October 16, 2024
+- Completed Module 3 of 1/9 courses Introduction to Front-End Development
+- Python Workshop - Chapter 6 
+- Worked on Minesweeper game
+
 ### Day 19: October 15, 2024
 - Reviewd Architecture notes
 - Worked on Module 3 of 1/9 courses Introduction to Front-End Development
