@@ -1,13 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 22: October 18, 2024
+
+### Day 21: October 17, 2024
+- Frustrating day
+    - Started Module 2/4 of 1/9 course Introduction to Front-End Development
+        Could not get beyond a 75% on first exercise. The instructions are 
+        simple so not sure what the issue is! 
+- Started Python Workshop - Chapter 6. Exercise 89/98
+- Worked on Minesweeper game
+        Could not get board prototype up and running. This is quite frustrating
+        since I have spend quite some time on CSS but don't know enough 
+        to figure out how to make a 3D button
+- Added two new folders 09_minesweeper and front_end_course 
+
+
 ### Day 20: October 16, 2024
 - Completed Module 3 of 1/9 courses Introduction to Front-End Development
-- Python Workshop - Chapter 6 
-- Worked on Minesweeper game
+
 
 ### Day 19: October 15, 2024
 - Reviewd Architecture notes
-- Worked on Module 3 of 1/9 courses Introduction to Front-End Development
+- Worked on Module 1 of 1/9 courses Introduction to Front-End Development
 - Started working on Mineswee[er game (using HTML+CSS+JavaScript
 )
 ### Day 18: October 14, 2024
@@ -17,12 +31,12 @@
 
 ### Day 17: October 13, 2024
 - Initial "Build a Survey" HTML page (copilot helped...)
-- Completed Module 2 of 1/9 courses Introduction to Front-End Development
+- Working on Module 1/4 of 1/9 courses Introduction to Front-End Development
 
 ### Day 16: October 12, 2024
 - Completed the Registration Form Project 65/65
 - Signed up for Coursera Course: Meta Front-End Developer Professional Certificate
-- Completed Module 1 of 1/9 courses Introduction to Front-End Development
+- Working on Module 1/4 of 1/9 courses Introduction to Front-End Development
 - Started to look at "Build a Survey Form"
 
 
