@@ -1,0 +1,11 @@
+/*  button for minesweeper */
+.button-container {
+    display: flex;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    
+}
