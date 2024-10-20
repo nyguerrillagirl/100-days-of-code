@@ -1,14 +1,13 @@
 # 100 Days Of Code - Log
 
 ### Day 23: October 19, 2024
-- Work some more on Minesweeper 
-- Work on "Build a Survey" HTML page
+- Worked on Python Workshop Chapter 6
 
 ### Day 22: October 18, 2024
 - Submitted for grading (100%) exercise #1 in Coursera Course
 - Worked on  Module 2/4 of 1/9 Courses in Meta Front-End Developer Course
 
-- Worked on Python Workshop Chapter 6
+
 
 ### Day 21: October 17, 2024
 - Frustrating day
