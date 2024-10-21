@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 25: October 21, 2024
+- Completed CSS Basics in Coursera Course Module 2/4 in 1/9 Course (Introduction to Front-End Development)
+- Submitted Exerise 2 (100% Grade)
+
+
+### Day 24: October 20, 2024
+- CSS Basics in Coursera Course Module 2/4 in 1/9 Course (Introduction to Front-End Development)
+
+
 ### Day 23: October 19, 2024
 - Worked on Python Workshop Chapter 6
 
