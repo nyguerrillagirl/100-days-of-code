@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 26: October 22, 2024
+- Completed Chapter 1  on O'Reilly Modern HTML & CSS
+- Completed Module 2/4 in Course 1/9 Meta Front-End Developer Course
+
+
 ### Day 25: October 21, 2024
 - Completed CSS Basics in Coursera Course Module 2/4 in 1/9 Course (Introduction to Front-End Development)
 - Submitted Exerise 2 (100% Grade)
+- Started working on O'Reilly Modern HTML & CSS
 
 
 ### Day 24: October 20, 2024
