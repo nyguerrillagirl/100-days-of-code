@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 27: October 23, 2024
+- Worked on  Chapter 2  on O'Reilly Modern HTML & CSS
+- Worked on Module 3/4 in Course 1/9 Meta Front-End Developer Course
+
 ### Day 26: October 22, 2024
 - Completed Chapter 1  on O'Reilly Modern HTML & CSS
 - Completed Module 2/4 in Course 1/9 Meta Front-End Developer Course
