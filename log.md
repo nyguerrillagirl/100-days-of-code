@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 28: October 24, 2024
+- Completed Chapter 2  on O'Reilly Modern HTML & CSS
+- Completed Module 3/4 in Course 1/9 Meta Front-End Developer Course
+- Worked on examples on Python subprocess.run() method
+
+
+
 ### Day 27: October 23, 2024
 - Worked on  Chapter 2  on O'Reilly Modern HTML & CSS
 - Worked on Module 3/4 in Course 1/9 Meta Front-End Developer Course

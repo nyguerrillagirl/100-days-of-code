@@ -9,25 +9,58 @@
 <body>
     <div class="container">
         <div class="row">
+            <!-- Menu items here -->
             <div class="col">
                 <h1>Our Menu</h1>
 
-                <h2>Fried Calamari <span class="badge bg-primary">New</span></h2>
-                <p>Squid, buttermilk.</p>
-                <img src="calamari.jpg" class="img-fluid" alt="Fried Calamari">
+                <div class="row">
+                    <div class="col-12 col-lg-6">
+                        <div class="card">
+                            <img src="calamari.jpg" class="card-img-top" alt="Fried Calamari" height="200">
+        
+                            <div class="card-body">
+                                <h2 class="card-title">Fried Calamari <span class="badge bg-primary">New</span></h2>
+                                <p class="card-text">Squid, buttermilk.</p>
+                
+                            </div>
+                        </div>
+                    </div>
 
-                <h2>Falafel</h2>
-                <p>Chickpea, herbs, spices.</p>
-                <img src="falafel.jpg" class="img-fluid" alt="Falafel">
+                    <div class="col-12 col-lg-6">
+                        <div class="card">
+                            <img src="falafel.jpg" class="card-img-top" alt="Falafel">
+        
+                            <div class="card-body">
+                                <h2 class="card-title">Falafel</h2>
+                                <p class="card-text">Chickpea, herbs, spices.</p>
+                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6">
+                        <div class="card">
+                            <img src="salad.jpg" class="card-img-top" alt="Pasta Salad">
+                            
+                            <div class="card-body">
+                                <h2 class="card-title">Pasta Salad</h2>
+                                <p class="card-text"></p>Pasta, vegetables, mozzarella.</p>
+                
+                            </div>
+                        
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- col -->
 
-                <h2>Pasta Salad</h2>
-                <p>Pasta, vegetables, mozzarella.</p>
-                <img src="salad.jpg" class="img-fluid" alt="Pasta Salad">
-             </div>
-
+            <!-- Prices here -->
             <div class="col">
                 <h2>Prices</h2>
                 <table class="table">
+                    <tr>
+                        <td>Fried Calamari</td>
+                        <td>$12.00</td>
+                   </tr>
+
                     <tr>
                         <td>Falafel</td>
                         <td>$12.00</td>
@@ -37,9 +70,15 @@
                         <td>$10.00</td>
                     </tr>
                 </table>
-            </div>
+                <div class="alert alert-info" role="alert">
+                    Try our new Fried Calamari!
+                </div>
+            </div> <!-- col -->
+
         </div>
+
     </div>
+        
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
