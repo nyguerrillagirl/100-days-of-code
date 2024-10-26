@@ -1,11 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 30: October 26, 2024
+
+
+### Day 29: October 25, 2024
+- Started Module 4/4 (React) in Course 1/9 Meta Front-End Developer Course
+- Completed Chapter 6 in Python Workshop
+  - This chapter uses try:..except Exception: without having covered the topic in any previous chapter
+    - I searched the book and have not found the topic covered at all!!
+  - This chapter uses "import urllib" with no prior explanation of this library
+  - Exercise 95 could not be completed because the file referenced at https://packt.live/2OOaXWs does not exist! I replaced it with 
+  "https://github.com/nyguerrillagirl/100-days-of-code/blob/main/FAQ.md"
+  - The solution for the final Activity in Chapter 6 is wrong it should use partialmethod not partial. I hate this book.
+  - The concept of a Workshop book (examples to follow with activity to test understanding) was very appealing 
+                but this book really sucks. The Activities are almost impossible. This book has the feel of multiple
+                authors that did not coordinate better so that a construct used in one chapter was already covered
+                in a previous one. 
+  - Another annoying aspect of the book is the fact that a single chapter (e.g. Chapter  4) can cover
+        everything from file io to plotting graphs!? The graph plotting information is so sparse 
+        AND DOES NOT WORK to BOOT!! 
+  - I plan on completing the book only because I am stubborn and it is part of my 100-days-of-code 
+  - I did find out there is a 2nd Edition to the book. Hopefully (I seriously doubt it) the cleaned things up
+
 ### Day 28: October 24, 2024
-- Completed Chapter 2  on O'Reilly Modern HTML & CSS
-- Completed Module 3/4 in Course 1/9 Meta Front-End Developer Course
-- Worked on examples on Python subprocess.run() method
-
-
+- Worked on  Chapter 2  on O'Reilly Modern HTML & CSS
+- Worked on Module 3/4 in Course 1/9 Meta Front-End Developer Course
 
 ### Day 27: October 23, 2024
 - Worked on  Chapter 2  on O'Reilly Modern HTML & CSS
