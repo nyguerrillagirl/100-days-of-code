@@ -1,9 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 33: October 29, 2024
+- Started working on Module 1/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+- Completed Chapter 3 of OReilly Course Bootstrap 5 From Scratch
+
+
 ### Day 32: October 28, 2024
 
 - Completed 4 hours of the first part of the O'Reilly Learning course TCP/IP Dive with Wire Shark
-- Working on Module 4/4 in Course 1 [Introduction to Fronend Development]/9 [Meta Front-End Specialization]
+- Completed Module 4/4 in Course 1 [Introduction to Fronend Development]/9 [Meta Front-End Specialization]
 
 ### Day 31: October 27, 2024
 
