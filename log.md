@@ -1,9 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 34: October 30, 2024
+- Worked on Module 1/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+
 
 ### Day 33: October 29, 2024
 - Started working on Module 1/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
-- Completed Chapter 3 of OReilly Course Bootstrap 5 From Scratch
+- Worked on Chapter 3 of OReilly Course Bootstrap 5 From Scratch
 
 
 ### Day 32: October 28, 2024
