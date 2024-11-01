@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 35: October 31, 2024
+- Worked on Module 1/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+- Started Module 1/4 in Course 1/8 [Foundations of Cybersecurity] in Google Cybersecurity Professional Certificate
+
+
 ### Day 34: October 30, 2024
+
 - Worked on Module 1/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
 
 
