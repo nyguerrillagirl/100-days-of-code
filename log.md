@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 37: November 2, 2024
+
+- Started Module 2/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+- Continue Reading Chapter 7 in Python Workshop and tutorial on itertools and iterators (all day!)
+
 ### Day 36: November 1, 2024
 
 - Completed Module 1/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
