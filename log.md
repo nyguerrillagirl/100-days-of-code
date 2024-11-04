@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 38: November 3, 2024
+
+- Woring on Module 2/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+- Completed Reading Chapter 7 in Python Workshop and tutorial on itertools and iterators (all day!)
+- Started Module 2/4 in Course 1/8 [Foundations of Cybersecurity] in Google Cybersecurity Professional Certificate
+
 ### Day 37: November 2, 2024
 
 - Started Module 2/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
