@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 39: November 4, 2024
+
+- Completed  Module 2/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+- Started Reading Chapter 8 in Python Workshop 
+- Completed Module 2/4 in Course 1/8 [Foundations of Cybersecurity] in Google Cybersecurity Professional Certificate
+
 ### Day 38: November 3, 2024
 
 - Woring on Module 2/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
