@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 40: November 5, 2024
+
+- Started  Module 3/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+- Continued Reading Chapter 8 in Python Workshop, Learned how to create unit tests in Python
+- Started Module 3/4 in Course 1/8 [Foundations of Cybersecurity] in Google Cybersecurity Professional Certificate
+
 ### Day 39: November 4, 2024
 
 - Completed  Module 2/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
