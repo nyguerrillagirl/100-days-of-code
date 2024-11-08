@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 42: November 7, 2024
+- Continued Reading Chapter 8 in Python Workshop, Created my first Python project
+
+
 ### Day 41: November 6, 2024
 
 - Working on  Module 3/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
