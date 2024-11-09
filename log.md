@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 43: November 8, 2024
+- Completed Reading Chapter 8 in Python Workshop, Docs + Using GIT
+- Completed Module 3/4 in Course 1/8 [Foundations of Cybersecurity] in Google Cybersecurity Professional Certificate
+- Return to FreeCodeCamp Project - Working on Survey Registration Form
+- Working on  Module 3/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+
 ### Day 42: November 7, 2024
 - Continued Reading Chapter 8 in Python Workshop, Created my first Python project
 

@@ -1,8 +1,22 @@
 body {
-    background-image: url("survey_background.png");
     color: #ffffff;
     font-family: Poppins, sans-serif;
- }
+  }
+
+ .form-wrap {
+  overflow: hidden;
+  position: relative; 
+  background-color: rgb(84, 33, 250);  
+}
+
+.form-bg {
+  opacity: 0.2;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
 
 header {
     text-align: center;
@@ -94,3 +108,19 @@ header {
     font-style: italic;
   }
   
+label {
+    display: block;
+    margin: 10px 0;
+}
+
+input,
+textarea,
+select {
+    margin: 2px;
+    width: 100%;
+}
+
+.labelName {
+    display: block;
+    margin: 5px 0;
+}
