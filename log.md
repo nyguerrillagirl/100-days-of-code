@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 44: November 9, 2024
+- Completed all but last Activity in Chapter 9 in Python Workshop
+- Started Module 4/4 in Course 1/8 [Foundations of Cybersecurity] in Google Cybersecurity Professional Certificate
+- Return to FreeCodeCamp Project - Completed and Passed the Survey Form Project!
+- Started working on FreeCodeCamp - Learn the CSS Box Model by Building a Rothko Painting (0/45 Steps)
+- Working on  Module 3/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+
+
 ### Day 43: November 8, 2024
 - Completed Reading Chapter 8 in Python Workshop, Docs + Using GIT
 - Completed Module 3/4 in Course 1/8 [Foundations of Cybersecurity] in Google Cybersecurity Professional Certificate
