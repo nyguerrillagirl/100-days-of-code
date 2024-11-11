@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 44: November 9, 2024
+### Day 45: November 10, 2024
+
+- Read article [Build Your Own Wheel of Names](https://www.freecodecamp.org/news/build-your-own-wheel-of-names/)
+- Read about Bun and Vite
+- Completed Chapter 9 in Python Workshop
+- Worked on LinkedIn Learning Course Building Modern User Interfaces with React. covered
+  * Introduction
+  * What is React?
+  * Intro to React Elements
+
+### Day 44: November 9, 2024 
+
 - Completed all but last Activity in Chapter 9 in Python Workshop
 - Started Module 4/4 in Course 1/8 [Foundations of Cybersecurity] in Google Cybersecurity Professional Certificate
 - Return to FreeCodeCamp Project - Completed and Passed the Survey Form Project!
