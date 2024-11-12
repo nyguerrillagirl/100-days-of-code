@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 46: November 11, 2024
+- Working on LinkedIn Learning Course Building Modern User Interfaces with React. covered
+  * React Components
+  * React State in the Component Tree
+- Tried to learn a bit more about React, esp. useEffect and useState but got stuck trying
+to get the project associated with the book Beginning React and Firebase! 
+
 ### Day 45: November 10, 2024
 
 - Read article [Build Your Own Wheel of Names](https://www.freecodecamp.org/news/build-your-own-wheel-of-names/)
