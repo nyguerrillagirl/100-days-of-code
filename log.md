@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 47: November 12, 2024
+- Work on trying to get Firebase project working...moving back node version
+  * Could not install an older version of nodejs using nvm. Since there are so 
+  many packages with security issues. I may decide to rebuild the project using 
+  more up-to-date packages
+- Completed Module 4/4 in Course 1/8 [Foundations of Cybersecurity] in Google Cybersecurity Professional Certificate
+  * On to the Second Course Play It Safe - Manage Security Risks
+- Completed Chapter 1 in "React in Action" 
+
 ### Day 46: November 11, 2024
 - Working on LinkedIn Learning Course Building Modern User Interfaces with React. covered
   * React Components
