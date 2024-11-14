@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 48: November 13, 2024
+- Working in React in Action. Stopped due to issues with author's approach
+- Working on Chapter 1 React Workshop 
+
 ### Day 47: November 12, 2024
 - Work on trying to get Firebase project working...moving back node version
   * Could not install an older version of nodejs using nvm. Since there are so 
