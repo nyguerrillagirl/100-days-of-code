@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+
+### Day 49: November 14, 2024
+- Removed react_workship and react_in_action.
+- Trying "Learning React"
+
+
 ### Day 48: November 13, 2024
 - Working in React in Action. Stopped due to issues with author's approach
 - Working on Chapter 1 React Workshop 
