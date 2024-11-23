@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 58: November 23, 2024
+
+
+### Day 57: November 22, 2024
+- BAD COLD - NO CODE
+
+### Day 56: November 21, 2024
+- BAD COLD - NO CODE
+
+### Day 55: November 29, 2024
+- BAD COLD - NO CODE
+
+### Day 54: November 19, 2024
+- BAD COLD - NO CODE
+
+### Day 53: November 18, 2024
+- BAD COLD - NO CODE
+
+### Day 52: November 17, 2024
+- BAD COLD - NO CODE
+
+### Day 51: November 16, 2024
+- BAD COLD - NO CODE
+
 ### Day 50: November 15, 2024
 - Reading Chapter 2 of "Learning React"
 - not much work done due to bad cold
