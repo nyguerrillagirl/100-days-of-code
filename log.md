@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 58: November 23, 2024
-
+- Python Workshop - Chapter 10, NumPy
 
 ### Day 57: November 22, 2024
 - BAD COLD - NO CODE
