@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 59: November 24, 2024
+- Python Workshop - Chapter 10 - on to Pandas
+
 ### Day 58: November 23, 2024
 - Python Workshop - Chapter 10, NumPy
 
