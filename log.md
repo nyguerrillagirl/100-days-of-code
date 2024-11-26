@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+
+### Day 60: November 25, 2024
+- Python Workshop - Chapter 10 - Completed
+- The Data Visualization Workshop - Reading Chapter 1
+
 ### Day 59: November 24, 2024
 - Python Workshop - Chapter 10 - on to Pandas
 
