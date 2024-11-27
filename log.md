@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
+### Day 62: November 27, 2024
 
+### Day 61: November 26, 2024
+- Python Workshop - Chapter 11 - Reading Machine Learning
+- The Data Visualization Workshop - Reading Chapter 1
+- Dive Into Data Science - Reading Chapter 1
+- Spent most of day learning matplotlib vs seaborn plots
 
 ### Day 60: November 25, 2024
 - Python Workshop - Chapter 10 - Completed
