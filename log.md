@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
+
+### Day 63: November 28, 2024
+
 ### Day 62: November 27, 2024
+- Python Workshop - Chapter 11 - Reading Machine Learning
 
 ### Day 61: November 26, 2024
 - Python Workshop - Chapter 11 - Reading Machine Learning
