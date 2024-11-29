@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 ### Day 63: November 28, 2024
+- Python Workshop - Chapter 11 - Reading Machine Learning
+  - Using Linear Regression with cross_val_score, the mean on different folds 
+  - Regularization using Ridge and Lasso, to prevent overfitting
+  - K-Nearest Neighbor + GridSearchCV
+  - Decision Trees
+  - Random Forests
+- The Data Visualization Workshop - Reading Chapter 1
+  - Numpy 
+- Dive Into Data Science - Reading Chapter 1
+  - Reading and Processing Data 
+- Started Module 1/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
 
 ### Day 62: November 27, 2024
 - Python Workshop - Chapter 11 - Reading Machine Learning
