@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 64: November 29, 2024
+- Python Workshop - Chapter 11 - Completed Machine Learning
+  - COMPLETED THE BOOK: Python Workshop
+- The Data Visualization Workshop - Read Chapter 1 (chapter is 99 pages!)
+- Dive Into Data Science - Completed Chapter 1
+- Working on Module 1/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
+
 ### Day 63: November 28, 2024
 - Python Workshop - Chapter 11 - Reading Machine Learning
   - Using Linear Regression with cross_val_score, the mean on different folds 
