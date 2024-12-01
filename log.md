@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 65: November 30, 2024
+- NO WORK SATURDAY 
+
 ### Day 64: November 29, 2024
 - Python Workshop - Chapter 11 - Completed Machine Learning
   - COMPLETED THE BOOK: Python Workshop
