@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 67: December 2, 2024
+- The Data Visualization Workshop - Writing notes on Chapter 1
+  - organized reference material being used and edited my noted. I decided to remove my actual notes from git until done.
+
+### Day 66: December 1, 2024
+- Writing notes on material in Chapter 1 of Data Visualization Workshop, the chapter covers:
+  - Introduction to Data Visualization
+  - The importance of data visualization (I added warnings about the cons)
+  - Data Wrangling (I move this part to the end of my notes)
+  - Statistics
+    - Types of Data
+    - Summary Statistics
+  - NumPy
+    - Basic NumPy operations
+    - Advanced NumPy operations
+  - Pandas
+
+**Note** The chapter presents a range of topics with no depth or explanation of the operation details, nor does it have enough example and activities
+to really learn the material. This is why I am investigating each topic in more detail in my notes. I added my notes to this repo.
+
+
 ### Day 65: November 30, 2024
 - NO WORK SATURDAY 
 
