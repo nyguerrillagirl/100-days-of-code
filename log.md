@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 68: December 3, 2024
+- The Data Visualization Workshop - Writing notes on Chapter 1
+
 ### Day 67: December 2, 2024
 - The Data Visualization Workshop - Writing notes on Chapter 1
   - organized reference material being used and edited my noted. I decided to remove my actual notes from git until done.
