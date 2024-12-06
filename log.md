@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 70: December 5, 2024
+- The Data Visualization Workshop - Writing notes on Chapter 1
+- Started Module 2/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
+- Dive Into Data Science - Continue Reading Chapter 2
+  - univariate regression 
+  - multivariate regression
+- Continue working on Module 3/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+
+
 ### Day 69: December 4, 2024
 - The Data Visualization Workshop - Writing notes on Chapter 1
 - Completed on Module 1/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
