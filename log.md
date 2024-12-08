@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 72: December 7, 2024
+- Completed Module 2/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
+- Dive Into Data Science - Review  Chapter 2
+  - Things you should know to understand the chapter:
+    - NumPy
+    - Pandas, worked on understanding the reshape function
+    - minor cleanup to data (esp. date columns)
+    - Using matplotlib to create scatter plot, line plot
+    - scikit-learn Linear Regression
+- Data Camp Python Test + NumPy course
+- Watching the Wandering Warriors Cup /2 Semifinals!
+
+
 ### Day 71: December 6, 2024
 - Continue Module 2/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
 - Dive Into Data Science - Completed Reading Chapter 2
