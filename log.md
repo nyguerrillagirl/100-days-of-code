@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 73: December 8, 2024
+- The Data Visualization Workshop - Writing notes on Chapter 1
+  - Python Lists (or Arrays)
+- Starting Statistics book (OpenStax - free book) - Introductory Statistics, 2e 
+  - Reading Chapter 1 Sampling and Data 
+- Watched YouTube vide - ["The Return of Procedural Programming" by Richard Feldman]https://www.youtube.com/watch?v=vQPHtAxOZZw)
+- Watching the Wandering Warriors Cup /2 Finals!
+
+
 ### Day 72: December 7, 2024
 - Completed Module 2/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
 - Dive Into Data Science - Review  Chapter 2
