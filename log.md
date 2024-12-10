@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 74: December 9, 2024 (Monday)
+- The Data Visualization Workshop - Writing notes on Chapter 1
+  - Python Lists (or Arrays)
+- Start Module 3/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
+- Continue working on Module 3/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+- Data Camp Python Practice Test + NumPy course expanding notes on methods presented
+  - creating numpy arrays using Python arrays
+  - np.zeros()
+  - np.random.random()
+  - np.arange()
+- System Design on-line meeting with Raptor Coders
+  - Started reading the book "System Design Interview" Vol. 1
+- Started the book Infinite Powers, How Calculus Reveals the Secrets of the Universe
+
+
 ### Day 73: December 8, 2024
 - The Data Visualization Workshop - Writing notes on Chapter 1
   - Python Lists (or Arrays)
