@@ -1,4 +1,14 @@
-# 100 Days Of Code - Log
+# 100 Days of Code
+
+### Day 75: December 10, 2024 (Tuesday)
+- The Data Visualization Workshop - Writing notes on Chapter 1
+  - List Comprehension
+  - Lambdas
+- Data Camp Python Test + Continued NumPy course
+- Completed Module 3/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
+- Continue working on Module 3/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+- Completed Chapter 1 reading the book "System Design Interview" Vol. 1
+- Completed Introduction the book Infinite Powers, How Calculus Reveals the Secrets of the Universe
 
 ### Day 74: December 9, 2024 (Monday)
 - The Data Visualization Workshop - Writing notes on Chapter 1
