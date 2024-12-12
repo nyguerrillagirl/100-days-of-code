@@ -1,5 +1,13 @@
 # 100 Days of Code
 
+### Day 76: December 11, 2024 (Wednesday)
+- The Data Visualization Workshop - Writing notes on Chapter 1
+  - Updated notes on Lists, List comprehension, map() function and lambdas
+- Data Camp Python Test + Continued NumPy course
+- Start Module 4/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
+- Read Chapter 2 "Back of the Envelope" in "System Design Interview" Vol. 1
+- Reading Chapter 1 - Infinity the book Infinite Powers, How Calculus Reveals the Secrets of the Universe
+
 ### Day 75: December 10, 2024 (Tuesday)
 - The Data Visualization Workshop - Writing notes on Chapter 1
   - List Comprehension
