@@ -1,5 +1,12 @@
 # 100 Days of Code
 
+### Day 77: December 12, 2024 (Thursday)
+- Data Camp  Continue NumPy course (got stuck on problems)
+- Completed Module 4/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
+  - Completed Course 2/8!! 
+- Completed Module 3/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+
+
 ### Day 76: December 11, 2024 (Wednesday)
 - The Data Visualization Workshop - Writing notes on Chapter 1
   - Updated notes on Lists, List comprehension, map() function and lambdas
