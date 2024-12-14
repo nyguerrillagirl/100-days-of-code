@@ -1,5 +1,12 @@
 # 100 Days of Code
 
+### Day 78: December 13, 2024 (Friday)
+- Data Camp Python Test + Continue NumPy course
+  - This is hard for me because the lecture part is skimpy. I have to find tutorials
+  and explanations online to truly understand things.
+
+
+
 ### Day 77: December 12, 2024 (Thursday)
 - Data Camp  Continue NumPy course (got stuck on problems)
 - Completed Module 4/4 in Course 2/8 [Play It Safe - Manage Security Risks] in Google Cybersecurity Professional Certificate
