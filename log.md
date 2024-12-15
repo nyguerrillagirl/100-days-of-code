@@ -1,11 +1,18 @@
 # 100 Days of Code
 
+### Day 79: December 14, 2024 (Saturday)
+- The Data Visualization Workshop - Writing notes on Chapter 1
+  - NumPy
+- Data Camp Python Test 
+  - finally finished a section - took 3 days 
+- Start Module 1/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+  - Completed Course 2/8!! 
+- Start Module 4/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+
 ### Day 78: December 13, 2024 (Friday)
 - Data Camp Python Test + Continue NumPy course
   - This is hard for me because the lecture part is skimpy. I have to find tutorials
   and explanations online to truly understand things.
-
-
 
 ### Day 77: December 12, 2024 (Thursday)
 - Data Camp  Continue NumPy course (got stuck on problems)
