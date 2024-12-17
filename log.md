@@ -1,5 +1,11 @@
 # 100 Days of Code
 
+### Day 81: December 16, 2024 (Monday)
+- The Data Visualization Workshop - Writing notes on Chapter 1
+  - Statistics
+- Spent most of the day watching Noble Apartment Cup!
+
+
 ### Day 80: December 15, 2024 (Sunday)
 - The Data Visualization Workshop - Writing notes on Chapter 1
   - NumPy
