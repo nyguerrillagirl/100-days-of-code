@@ -1,5 +1,9 @@
 # 100 Days of Code
 
+### Day 82: December 17, 2024 (Tuesday)
+- Spent most of the day watching Noble Apartment Cup!
+- Days I need to make up: 12 days short
+
 ### Day 81: December 16, 2024 (Monday)
 - The Data Visualization Workshop - Writing notes on Chapter 1
   - Statistics
