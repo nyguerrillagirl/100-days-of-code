@@ -1,5 +1,10 @@
 # 100 Days of Code
 
+### Day 83: December 18, 2024 (Wednesday)
+- Spent most of the day watching Noble Apartment Cup!
+- Days I need to make up: 13 days short
+
+
 ### Day 82: December 17, 2024 (Tuesday)
 - Spent most of the day watching Noble Apartment Cup!
 - Days I need to make up: 12 days short
