@@ -33,6 +33,7 @@ Summary of Topics being covered:
 
 ### Day 84: December 19, 2024 (Thursday)
 - Read Chapter 3 "A Framework for System Design Interviews" in "System Design Interview" Vol. 1
+- Final 5 Day Noble Apartment Cup Day! Only two matches tomorrow. I will watch tonight
 
 ### Day 83: December 18, 2024 (Wednesday)
 - Spent most of the day watching Noble Apartment Cup!
