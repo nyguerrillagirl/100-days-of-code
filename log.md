@@ -1,8 +1,42 @@
 # 100 Days of Code
 
+Summary of Topics being covered:
+
+|Topic/Book/Course|Date Started|Date Completed|Working on|
+|-----------------|------------|--------------|----------|
+|1. FreeCodeCamp - Cat Photo App	[Course]|9/26/2024|9/26/2024| |
+|2. FreeCodeCamp - Learn Basic CSS, Cafe Menu|9/27/2024|10/5/2024| |
+|3. Zenva HTML 5 + CSS3 Course|9/28/2024|10/1/2024| |
+|4. The Python Workshop	[Book]|9/26/2024|11/29/2024| |
+|5. FreeCodeCamp - Learn CSS Colors|10/6/2024|10/11/2024| |
+|6. O'Reilly Learning: Intermed Python Classes|	10/13/2024|10/13/2024| |
+|7. FreeCodeCamp - Registration Form|10/11/2024|10/12/2024| |
+|8. Coursera Course - Meta Front-End Dev|	10/12/2024| | * |
+|9. FreeCodeCamp - Build a Survey Form|10/12/2024|11/9/2024| |
+|10. Minesweeper Game - Project|10/15/2024| |  |
+|11. O'Reilly Modern HTML & CSS Course|10/21/2024| |  |
+|12. O'Reilly Bootstrap 5 Course|10/26/2024| |  |
+|13. Coursera Cybersecurity Course|10/31/2024| | * |
+|14. FreeCodeCamp - Rotho Painting|11/9/2024| |  |
+|15. LinkedInLearning React Course|11/10/2024| |  |
+|16. Learning React [Book]|11/14/2024| | - |
+|17. The Data Visualization Workshop|11/26/2024| | * |
+|18. Dive Into Data Science|11/26/2024| | * |
+|19. DataCamp - Numpy Course|12/7/2024| | * |
+|20. Introductory Statistics [Book]|12/8/2024| |
+|21. Infinite Powers [Book]|12/9/2024| | * |
+|22. System Design [Book]|12/10/2024| | * |
+|23. Strangers in Their Own Land [Book]|12/9/2024| | * |
+
+
+
+
+### Day 84: December 19, 2024 (Thursday)
+- Read Chapter 3 "A Framework for System Design Interviews" in "System Design Interview" Vol. 1
+
 ### Day 83: December 18, 2024 (Wednesday)
 - Spent most of the day watching Noble Apartment Cup!
-- Days I need to make up: 13 days short
+- Days I need to make up: 14 days short
 
 
 ### Day 82: December 17, 2024 (Tuesday)
