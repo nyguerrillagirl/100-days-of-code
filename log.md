@@ -29,6 +29,9 @@ Summary of Topics being covered:
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 
 
+### Day 85: December 20, 2024 (Friday)
+- Completed Module 4/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+- Continue Module 1/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
 
 
 ### Day 84: December 19, 2024 (Thursday)
