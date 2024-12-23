@@ -28,6 +28,10 @@ Summary of Topics being covered:
 |22. System Design [Book]|12/10/2024| | * |
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 
+
+### Day 87: December 22, 2024 (Sunday)
+- Data Camp - NumPy Course - Summarizing Data
+
 ### Day 86: December 21, 2024 (Saturday)
 - Completed Module 1/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
 - Data Camp - NumPy Course
