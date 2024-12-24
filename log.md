@@ -29,6 +29,12 @@ Summary of Topics being covered:
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 
 
+### Day 88: December 23, 2024 (Monday)
+- Data Camp - NumPy Course
+- Completed Module 5/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
+  - Completed Course 2/9 course in the specialization
+
+
 ### Day 87: December 22, 2024 (Sunday)
 - Data Camp - NumPy Course - Summarizing Data
 
