@@ -29,6 +29,16 @@ Summary of Topics being covered:
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 
 
+### Day 89: December 24, 2024 (Tuesday)
+- Data Camp - NumPy Course
+- Started Module 1/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization]
+- Continued working on Module 2/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+- The Data Visualization Workshop - Writing notes on Chapter 1
+  - Summary Statistics
+- Books
+  - Reading Chapter 4  in "System Design Interview" Vol. 1
+
+
 ### Day 88: December 23, 2024 (Monday)
 - Data Camp - NumPy Course
 - Completed Module 5/5 in Course 2 [Programming with JavaScript]/9 [Meta Front-End Specialization]
