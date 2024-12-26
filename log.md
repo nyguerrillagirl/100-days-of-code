@@ -28,7 +28,13 @@ Summary of Topics being covered:
 |22. System Design [Book]|12/10/2024| | * |
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 
-
+### Day 90: December 25, 2024 (Wednesday)
+- Data Camp - NumPy Course - *
+- Worked on Module 1/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization] - *
+- Continued working on Module 2/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+- Books
+  - Reading Chapter 4  in "System Design Interview" Vol. 1
+ 
 ### Day 89: December 24, 2024 (Tuesday)
 - Data Camp - NumPy Course
 - Started Module 1/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization]
