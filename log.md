@@ -28,13 +28,22 @@ Summary of Topics being covered:
 |22. System Design [Book]|12/10/2024| | * |
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 
+
+### Day 94: December 29, 2024 (Sunday)
+- Topic to Explore: How to create and use Python virtual environments
+  - write-up prepared
+  - Topic to Explore: Taipy -> Still could not get this to work
+  - write-up prepared
+- Data Camp - 
+  - Intermediate Python 
+
 ### Day 93: December 28, 2024 (Saturday)
 - Checking out Taipy again.
 - Data Camp - 
   - Intermediate Python 
   - Introduction to Data Visualization with Plotly Course
   - NumPy Practice
-- Continued working on Module 2/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+- Completed working on Module 2/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
 
 
 ### Day 92: December 27, 2024 (Friday)
