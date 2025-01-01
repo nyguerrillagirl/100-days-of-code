@@ -28,8 +28,20 @@ Summary of Topics being covered:
 |22. System Design [Book]|12/10/2024| | * |
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 
-### Day 95: December 30, 2024 (Monday)
 
+### Day 96: December 31, 2024 (Tuesday)
+- Data Camp - 
+  - Intermediate Python 
+  - Introduction to Data Visualization with Plotly Course
+  - NumPy Practice
+- Completed Module 2/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization] 
+- Completed Module 3/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+- The Data Visualization Workshop - Writing notes on Chapter 1
+  - Edited existing text
+- Happy New Year! (stayed up late!)
+
+
+### Day 95: December 30, 2024 (Monday)
 - Data Camp - 
   - Intermediate Python 
   - Introduction to Data Visualization with Plotly Course
@@ -65,7 +77,7 @@ Summary of Topics being covered:
 - Data Camp - Intermediate Python
   - NumPy Practice
 	- Review first part
-- Worked on Module 1/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization]
+- Completed Module 1/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization]
 - Continued working on Module 2/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
 
 
