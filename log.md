@@ -28,6 +28,13 @@ Summary of Topics being covered:
 |22. System Design [Book]|12/10/2024| | * |
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 
+
+### Day 98: January 2, 2025 (Thursday)
+- Continue Working on Module 2/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization] 
+- Continue Working on Module 3/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+- Books
+  - Strangers in Their Own Land
+
 ### Day 97: January 1, 2025 (Wednesday)
 - Data Camp - 
   - Intermediate Python 
