@@ -7,11 +7,11 @@ Summary of Topics being covered:
 |1. FreeCodeCamp - Cat Photo App	[Course]|9/26/2024|9/26/2024| |
 |2. FreeCodeCamp - Learn Basic CSS, Cafe Menu|9/27/2024|10/5/2024| |
 |3. Zenva HTML 5 + CSS3 Course|9/28/2024|10/1/2024| |
-|4. The Python Workshop	[Book]|9/26/2024|11/29/2024| |
+|4. The Python Workshop	[Book]|9/26/2024|11/29/2024| COMPLETED |
 |5. FreeCodeCamp - Learn CSS Colors|10/6/2024|10/11/2024| |
 |6. O'Reilly Learning: Intermed Python Classes|	10/13/2024|10/13/2024| |
 |7. FreeCodeCamp - Registration Form|10/11/2024|10/12/2024| |
-|8. Coursera Course - Meta Front-End Dev|	10/12/2024| | * |
+|8. Meta Front-End Developer Professional Specialization|	10/12/2024| | * |
 |9. FreeCodeCamp - Build a Survey Form|10/12/2024|11/9/2024| |
 |10. Minesweeper Game - Project|10/15/2024| |  |
 |11. O'Reilly Modern HTML & CSS Course|10/21/2024| |  |
@@ -27,6 +27,14 @@ Summary of Topics being covered:
 |21. Infinite Powers [Book]|12/9/2024| | * |
 |22. System Design [Book]|12/10/2024| | * |
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
+|24. FE: Course #1 - Introduction to Front-End Development [Course]|10/13/2024|10/28/2024 | COMPLETED |
+|25. FE: Course #2 - Programming with Javascript [Course]|10/29/2024|12/23/2024 | COMPLETED |
+|26. FE: Course #3 - Version Control [Course]|12/24/2024| | * |
+|27. CS: Course #1 - Foundations of Cybersecurity [Course]|10/31/2024|11/12/2024 | COMPLETED |
+|28. CS: Course #2 - Play It Safe - Manage Security Risks [Course]|11/28/2024|12/12/2024 | COMPLETED |
+|29. CS: Course #3 - Connect and Protect [Course]|12/14/2024| | * |
+
+
 
 ### Day 99: January 3, 2025 (Friday)
 - Data Camp - 
