@@ -28,6 +28,40 @@ Summary of Topics being covered:
 |22. System Design [Book]|12/10/2024| | * |
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 
+### Day 99: January 3, 2025 (Friday)
+- Data Camp - 
+  - Intermediate Python 
+  - Introduction to Data Visualization with Plotly Course
+  - Various Practice Exercises
+- Working on  Module 2/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization] 
+  - installed GitHub CLI
+- Working on  Module 3/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+- Books
+  - Strangers in Their Own Land
+- GIT ISSUE (hopefully resolved)
+  - I have been seeing the following message for weeks now when I did a git status:
+
+        modified:   log.md
+        modified:   src/beginning_react_and_firebase/final-space-react (modified content, untracked content)
+        modified:   src/linkedIn_courses/building_modern_ui_with_react/Ch08/08_04/finished/react-app (modified content) 
+  - [This stackoverflow issue](https://stackoverflow.com/questions/50167969/how-to-fix-modified-content-untracked-content-in-git) suggested:
+     git rm -rf --cached <folder>
+     Note: The only common thing is that both had .gitignore files in those directories. It appears to work!!!
+     Now a git status has:
+
+      C:\100DaysOfCode\100-days-of-code>git status
+      On branch main
+      Your branch is up to date with 'origin/main'.
+
+      Changes to be committed:
+        (use "git restore --staged <file>..." to unstage)
+              deleted:    src/beginning_react_and_firebase/final-space-react
+              deleted:    src/linkedIn_courses/building_modern_ui_with_react/Ch08/08_04/finished/react-app
+
+      Changes not staged for commit:
+        (use "git add <file>..." to update what will be committed)
+        (use "git restore <file>..." to discard changes in working directory)
+              modified:   log.md     
 
 ### Day 98: January 2, 2025 (Thursday)
 - Continue Working on Module 2/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization] 
