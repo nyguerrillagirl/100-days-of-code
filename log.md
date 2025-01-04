@@ -22,7 +22,7 @@ Summary of Topics being covered:
 |16. Learning React [Book]|11/14/2024| | - |
 |17. The Data Visualization Workshop|11/26/2024| | * |
 |18. Dive Into Data Science|11/26/2024| | * |
-|19. DataCamp - Numpy Course|12/7/2024| | * |
+|19. DataCamp - Numpy Course|12/7/2024|12/26/2024| COMPLETED |
 |20. Introductory Statistics [Book]|12/8/2024| |
 |21. Infinite Powers [Book]|12/9/2024| | * |
 |22. System Design [Book]|12/10/2024| | * |
@@ -33,7 +33,8 @@ Summary of Topics being covered:
 |27. CS: Course #1 - Foundations of Cybersecurity [Course]|10/31/2024|11/12/2024 | COMPLETED |
 |28. CS: Course #2 - Play It Safe - Manage Security Risks [Course]|11/28/2024|12/12/2024 | COMPLETED |
 |29. CS: Course #3 - Connect and Protect [Course]|12/14/2024| | * |
-
+|30. Datacamp - Intermediate Python [Course]|12/27/2024| | * |
+|31. Datacamp - Introduction to Data Visualization with Plotly [Course]|12/28/2024| | * |
 
 
 ### Day 99: January 3, 2025 (Friday)
