@@ -1,5 +1,29 @@
 # 100 Days of Code
 
+### First 100 days of code 
+I learned quite a bit of new material. I would like to get into other areas 
+besides Front-End Development and Cybersecurity. I enjoyed the FreeCodeCamp 
+lessons. I am finally really learning Python and my second try at learning
+NumPy and Pandas is really paying off. I love when I revisit a solution I offered 
+years ago and can create a much better solution. 
+
+I learned to appreciate the job tghat cybersecurity experts bring to development.
+I always regarded them as "pests" but I now see it quite differently. I now know
+that security involves everyone pitch in and do their best in the interest of
+securing the company assets. Just ask yourself - what do you expect from the 
+organizations you do business with!? 
+
+I did not have enough knowledge to really start my Minesweeper game using HTML+
+CSS+JavaScript. I plan on implementing using Java (my strongest language) to 
+get the look and feel and logic down and then implementing web version by the 
+end of my 200 days. 
+
+I had a hard time finding a good course/book to learn React. I am not sure why. 
+I tried so many books. I have done React before and I was looking for something
+that would explain they why's. I will revisit this topic in my next 100 days.
+
+I give myself a B-.
+
 Summary of Topics being covered:
 
 |Topic/Book/Course|Date Started|Date Completed|Working on|
