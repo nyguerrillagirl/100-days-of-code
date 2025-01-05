@@ -4,19 +4,19 @@ Summary of Topics being covered:
 
 |Topic/Book/Course|Date Started|Date Completed|Working on|
 |-----------------|------------|--------------|----------|
-|1. FreeCodeCamp - Cat Photo App	[Course]|9/26/2024|9/26/2024| |
-|2. FreeCodeCamp - Learn Basic CSS, Cafe Menu|9/27/2024|10/5/2024| |
-|3. Zenva HTML 5 + CSS3 Course|9/28/2024|10/1/2024| |
+|1. FreeCodeCamp - Cat Photo App	[Course]|9/26/2024|9/26/2024| COMPLETED |
+|2. FreeCodeCamp - Learn Basic CSS, Cafe Menu|9/27/2024|10/5/2024| COMPLETED |
+|3. Zenva HTML 5 + CSS3 Course|9/28/2024|10/1/2024| COMPLETED |
 |4. The Python Workshop	[Book]|9/26/2024|11/29/2024| COMPLETED |
-|5. FreeCodeCamp - Learn CSS Colors|10/6/2024|10/11/2024| |
-|6. O'Reilly Learning: Intermed Python Classes|	10/13/2024|10/13/2024| |
-|7. FreeCodeCamp - Registration Form|10/11/2024|10/12/2024| |
-|8. Meta Front-End Developer Professional Specialization|	10/12/2024| | * |
-|9. FreeCodeCamp - Build a Survey Form|10/12/2024|11/9/2024| |
+|5. FreeCodeCamp - Learn CSS Colors|10/6/2024|10/11/2024| COMPLETED |
+|6. O'Reilly Learning: Intermed Python Classes|	10/13/2024|10/13/2024| COMPLETED |
+|7. FreeCodeCamp - Registration Form|10/11/2024|10/12/2024| COMPLETED |
+|8. Meta Front-End Developer Professional Specialization|	10/12/2024| | on Course 4/9 |
+|9. FreeCodeCamp - Build a Survey Form|10/12/2024|11/9/2024| COMPLETED |
 |10. Minesweeper Game - Project|10/15/2024| |  |
 |11. O'Reilly Modern HTML & CSS Course|10/21/2024| |  |
 |12. O'Reilly Bootstrap 5 Course|10/26/2024| |  |
-|13. Coursera Cybersecurity Course|10/31/2024| | * |
+|13. Coursera Cybersecurity Course|10/31/2024| | on Course 4/8 |
 |14. FreeCodeCamp - Rotho Painting|11/9/2024| |  |
 |15. LinkedInLearning React Course|11/10/2024| |  |
 |16. Learning React [Book]|11/14/2024| | - |
@@ -29,14 +29,22 @@ Summary of Topics being covered:
 |23. Strangers in Their Own Land [Book]|12/9/2024| | * |
 |24. FE: Course #1 - Introduction to Front-End Development [Course]|10/13/2024|10/28/2024 | COMPLETED |
 |25. FE: Course #2 - Programming with Javascript [Course]|10/29/2024|12/23/2024 | COMPLETED |
-|26. FE: Course #3 - Version Control [Course]|12/24/2024| | * |
+|26. FE: Course #3 - Version Control [Course]|12/24/2024|1/4/2025 | COMPLETED |
 |27. CS: Course #1 - Foundations of Cybersecurity [Course]|10/31/2024|11/12/2024 | COMPLETED |
 |28. CS: Course #2 - Play It Safe - Manage Security Risks [Course]|11/28/2024|12/12/2024 | COMPLETED |
-|29. CS: Course #3 - Connect and Protect [Course]|12/14/2024| | * |
+|29. CS: Course #3 - Connect and Protect [Course]|12/14/2024|01/04/2024 | COMPLETED |
 |30. Datacamp - Intermediate Python [Course]|12/27/2024| | * |
 |31. Datacamp - Introduction to Data Visualization with Plotly [Course]|12/28/2024| | * |
 
-
+### Day 100: January 4, 2025 (Saturday)
+- Completed  Module 3 and 4/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization] 
+  - COURSE COMPLETED
+- Completed  Module 4/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+  - COURSE COMPLETED
+- Books
+  - Strangers in Their Own Land
+- [Watched Garrison Qualifier](https://liquipedia.net/ageofempires/The_Garrison/Qualifier)
+    
 ### Day 99: January 3, 2025 (Friday)
 - Data Camp - 
   - Intermediate Python 
@@ -44,7 +52,7 @@ Summary of Topics being covered:
   - Various Practice Exercises
 - Working on  Module 2/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization] 
   - installed GitHub CLI
-- Working on  Module 3/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+- Working on  Module 4/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
 - Books
   - Strangers in Their Own Land
 - GIT ISSUE (hopefully resolved)
@@ -74,7 +82,7 @@ Summary of Topics being covered:
 
 ### Day 98: January 2, 2025 (Thursday)
 - Continue Working on Module 2/4 in Course 3 [Version Control]/9 [Meta Front-End Specialization] 
-- Continue Working on Module 3/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
+- Completed Module 3/4 in Course 3/8 [Connect and Protect] in Google Cybersecurity Professional Certificate
 - Books
   - Strangers in Their Own Land
 
