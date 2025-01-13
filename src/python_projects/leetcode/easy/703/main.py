@@ -22,19 +22,49 @@ class KthLargest(object):
         print("nums: ", self.nums)
         print("===================")
 
-    def insertValueInNums(self, newValue):
-        for index, value in enumerate(self.nums):
-            if value < newValue:
-                # found the position!
-                self.nums.insert(index, newValue)
-                return index
+    def addValToSortedList(self, theList, newValue):
+        nums = list(theList)
+        listSize = len(nums)
+        if listSize == 0:
+            # Just append to the empty list
+            nums.append(newValue)
+            return nums
 
-        self.nums.append(newValue)
+        if listSize == 1:
+            # Check where to place newValue
+            if newValue > nums[0]:
+                nums.insert(0, newValue)
+            else:
+                nums.append(newValue)
+            return nums
 
-    def insertValueInSortedList(self, newValue):
-        if len(self.nums) == 0:
-            self.nums.append(newValue)
-
+        if listSize == 2:
+            # Place first, new middle or end
+            if newValue > nums[0]:
+                nums.insert(0, newValue)
+            elif newValue > nums[1]:
+                nums.insert(1, newValue)
+            else:
+                nums.append(newValue)
+            return nums
+        # Now we split the list and decide which part to insert newValue
+        # we recurse on the part it belongs in and paste the list returned back together
+        leftIndex = 0
+        leftValue = nums[leftIndex]
+        rightIndex = len(nums) - 1
+        rightValue = nums[rightIndex]
+        midIndex = (rightIndex - leftIndex) // 2
+        midValue = nums[midIndex]
+        if newValue > midValue:
+            leftNums = nums[leftIndex:midIndex]
+            rightNums = nums[midIndex:]
+            newNums = self.addValToSortedList(leftNums, newValue)
+            return newNums + rightNums
+        else:
+            leftNums = nums[leftIndex:midIndex]
+            rightNums = nums[midIndex:]
+            newNums = self.addValToSortedList(rightNums, newValue)
+            return leftNums + newNums
 
     def add(self, val):
         """
@@ -48,7 +78,7 @@ class KthLargest(object):
 
         if len(self.nums) < self.k:
             print("just adding val:", val, " to the list")
-            self.insertValueInNums(val)
+            self.nums = self.addValToSortedList(self.nums, val)
             return self.nums[-1]
 
         if val < self.nums[-1]:
@@ -57,7 +87,7 @@ class KthLargest(object):
 
         # place val into the list and drop the last one
         print("inserting into the list and dropping the last item")
-        self.insertValueInNums(val)
+        self.nums = self.addValToSortedList(self.nums, val)
         print("BEFORE POP OF nums: ", self.nums)
         self.nums.pop()
         print("AFTER POP OF nums: ", self.nums)
@@ -83,8 +113,8 @@ def testInput(input):
             obj.printStuff("After adding " + str(aList[0]))
             print("result:", result)
 
+
+
 # Your KthLargest object will be instantiated and called as such:
-# FAILING AT: [[3,[5,-1]],[2],[1],[-1],[3],[4]]
-# Expect: [null,-1,1,1,2,3]
 input = [[3,[5,-1]],[2],[1],[-1],[3],[4]]
 testInput(input)
