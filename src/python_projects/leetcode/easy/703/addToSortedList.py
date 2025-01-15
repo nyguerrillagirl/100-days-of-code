@@ -1,4 +1,4 @@
-def addNewValueToSortedList(nums, newValue):
+def addNewValueToSortedList2(nums, newValue):
     """
     This is a non-recursive algorithm to add an item to a sorted list
     :param nums:
@@ -75,7 +75,7 @@ def addNewValueToSortedList(nums, newValue):
         midIndex = leftIndex + (((rightIndex - leftIndex) + 1) // 2)
     return nums
 # test the code
-nums = [200, 175, 100, 30, 25]
+nums = [200, 25, 10]
 
 newValue = 50
 

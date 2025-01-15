@@ -66,6 +66,83 @@ class KthLargest(object):
             newNums = self.addValToSortedList(rightNums, newValue)
             return leftNums + newNums
 
+    def addNewValueToSortedList2(self, newValue):
+        """
+        This is a non-recursive algorithm to add an item to a sorted list
+        :param nums:
+        :param newValue:
+        :return:
+        """
+        print("addNewValueToSortedList nums: ", self.nums)
+        print("addNewValueToSortedList newValue: ", newValue)
+        listSize = len(self.nums)
+        if listSize == 0:
+            self.nums.append(newValue)
+            return self.nums
+
+        if listSize == 1:
+            # Check where to place newValue
+            if newValue > self.nums[0]:
+                self.nums.insert(0, newValue)
+            else:
+                self.nums.append(newValue)
+            return self.nums
+
+        if listSize == 2:
+            # Place first, new middle or end
+            if newValue > self.nums[0]:
+                self.nums.insert(0, newValue)
+            elif newValue > self.nums[1]:
+                self.nums.insert(1, newValue)
+            else:
+                self.nums.append(newValue)
+            return self.nums
+
+        if newValue > self.nums[0]:
+            self.nums.insert(0, newValue)
+            return self.nums
+
+        if newValue < self.nums[-1]:
+            self.nums.append(newValue)
+            return self.nums
+
+        # We need to find the right position of newValue within the array
+        leftIndex = 0
+        rightIndex = listSize - 1
+        midIndex = leftIndex + (((rightIndex - leftIndex) + 1) // 2)
+        newValueAddedFlag = False
+        # debugcounter
+        debugCounter = 0
+        while not newValueAddedFlag:
+            print("leftIndex:", leftIndex, "rightIndex:", rightIndex, "midIndex:", midIndex)
+            debugCounter += 1
+            if debugCounter >= 10:
+                print("Exceeded while loop limit")
+                break
+            if leftIndex == (rightIndex - 1):
+                # only two value left
+                if newValue > self.nums[leftIndex]:
+                    self.nums.insert(leftIndex, newValue)
+                elif newValue > self.nums[rightIndex]:
+                    self.nums.insert(rightIndex, newValue)
+                else:
+                    self.nums.insert(rightIndex + 1, newValue)
+                newValueAddedFlag = True
+            if leftIndex == rightIndex:
+                # make decision where newValue falls
+                if newValue > self.nums[leftIndex]:
+                    self.nums.insert(leftIndex, newValue)
+                else:
+                    self.nums.insert(leftIndex + 1, newValue)
+                newValueAddedFlag = True
+            else:
+                if newValue < self.nums[midIndex]:
+                    leftIndex = midIndex
+                else:
+                    rightIndex = midIndex
+            midIndex = leftIndex + (((rightIndex - leftIndex) + 1) // 2)
+        return self.nums
+
     def add(self, val):
         """
         :type val: int
@@ -78,7 +155,7 @@ class KthLargest(object):
 
         if len(self.nums) < self.k:
             print("just adding val:", val, " to the list")
-            self.nums = self.addValToSortedList(self.nums, val)
+            self.nums = self.addNewValueToSortedList2(val)
             return self.nums[-1]
 
         if val < self.nums[-1]:
@@ -87,7 +164,7 @@ class KthLargest(object):
 
         # place val into the list and drop the last one
         print("inserting into the list and dropping the last item")
-        self.nums = self.addValToSortedList(self.nums, val)
+        self.nums = self.addNewValueToSortedList2(val)
         print("BEFORE POP OF nums: ", self.nums)
         self.nums.pop()
         print("AFTER POP OF nums: ", self.nums)
