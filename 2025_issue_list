@@ -1,0 +1,21 @@
+These are the issues I encountered that will require allocation of time to resolve
+
+ISSUES TO CHECKOUT
+|Issue #|Date Created|Date Completed|Description|Notes|
+| 1 | 1/6/2025| | Getting a python environment to work correctly| TBD |
+| 2 | 1/6/2025| | Getting SFML built correctly and demo working| TBD |
+
+- Git message 
+    hint: You've added another git repository inside your current repository.
+    hint: Clones of the outer repository will not contain the contents of
+    hint: the embedded repository and will not know how to obtain it.
+    hint: If you meant to add a submodule, use:
+    hint:
+    hint:   git submodule add <url> src/super-mario-kart
+    hint:
+    hint: If you added this path by mistake, you can remove it from the
+    hint: index with:
+    hint:
+    hint:   git rm --cached src/super-mario-kart
+    hint:
+    hint: See "git help submodule" for more information.
