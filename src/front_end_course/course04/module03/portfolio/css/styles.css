@@ -1,10 +1,17 @@
+/* shrub color: #26877F Primary Color*/
+/* Mint Green #C8E6C9 Backgrounds/Sections */
+/* White #FFFFFF Text/Accemts */
+/* Lemon Lime #DCE775 Buttons/Highlights */
+/* Dark Green #33691E Headers/Borders */
+/* Light Blue #E1F5FE Backgrounds/Dividers */
+
 body {
-    background-color: #edefee;
+    background-color: #ffffff;
     font-family: 'Markazi Text', serif;
     margin-top: 3rem;
     margin-bottom: 3rem;
     margin-left: 5%;
-    margin-right: 5%
+    margin-right: 5%;
 }
 
 h1 {
@@ -15,7 +22,7 @@ h1 {
 }
 .promotion_text {
     font-size: 1.5rem;
-    color: #333;
+    color: #26877F; /* #333 */
     text-align: center;
     margin-bottom: 1rem;
 }
@@ -30,17 +37,46 @@ header > img {
     display: block;
     margin-left: auto;
     margin-right:auto;
+    margin-bottom: 20px;
 }
 
-nav ul {
-    list-style: none;
+/* Center the navigation bar */
+nav {
+    display: flex;
+    justify-content: center;
     text-align: center;
-}
-
-nav li {
-    display: inline-block;
-}
-
+    background-color: #26877F; /* Primary color for the navbar background */
+    padding: 10px;
+    width: fit-content; 
+    margin: 10px auto;
+  }
+  
+  /* Remove default list styling */
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 5px auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Style each list item */
+  nav ul li {
+    margin: 0 15px; /* Adjust margin as needed */
+  }
+/* Style the links */
+nav ul li a {
+    text-decoration: none;
+    color: #FFFFFF; /* White color for the links */
+    font-size: 18px;
+    padding: 5px 10px;
+  }
+  
+  /* Add hover effect */
+  nav ul li a:hover {
+    background-color: #33691E; /* Dark Green for the hover effect */
+    color: #FFFFFF; /* Keep text white */
+    border-radius: 5px;
 section {
     display: flex;
 }
