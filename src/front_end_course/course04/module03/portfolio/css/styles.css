@@ -6,7 +6,7 @@
 /* Light Blue #E1F5FE Backgrounds/Dividers */
 
 body {
-    background-color: #E1F5FE;
+    background-color: #DCE775;
     font-family: 'Markazi Text', serif;
     margin-top: 3rem;
     margin-bottom: 3rem;
@@ -190,8 +190,11 @@ footer div {
     padding: 0 1rem;
   }
 
-  .copyright_hr {
-    border-color: #33691E;
-    width: 50%;
-  }
+.copyright_hr {
+    border: 1px solid #333;
 
+}
+.copyright_text p {
+  text-align: right;
+  float: right;
+}
