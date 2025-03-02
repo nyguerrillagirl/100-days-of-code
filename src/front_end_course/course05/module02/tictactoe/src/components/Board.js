@@ -3,16 +3,16 @@ import Square from "./Square";
  export default function Board({ xIsNext, squares, onPlay }) {
  
     function handleClick(i) {
-        if (squares[i] || calculateWinner(squares)) {
-            // This square is already filled or the game is over
-            return;
+        console.log("typeof squares: ",  squares);
+        console.log("i: ", i);
+        if (calculateWinner(squares) || squares[i]) {
+          return;
         }
-        const nextSquares = squares.slice(); // makes copy of squares
+        const nextSquares = squares.slice();
         if (xIsNext) {
-            nextSquares[i] = 'X';
-        }
-        else {
-            nextSquares[i] = 'O';
+          nextSquares[i] = 'X';
+        } else {
+          nextSquares[i] = 'O';
         }
         onPlay(nextSquares);
     }
