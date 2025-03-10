@@ -5,43 +5,85 @@ import {
 import "./App.css";
 
 function App() { 
-  const inputRef = useRef(null); // remembers the first operand
-  const resultRef = useRef(null); // remembers the result of last operation
-  const [operation, setOperation] = useState("");
+  // Refs to the input and result elements
+  const inputRef = useRef(null); // hooked to input element
+  const resultRef = useRef(null); // hooked to p element
+ 
+  // Holds the current result of a calculation
   const [result, setResult] = useState(0); 
-
+  const [currentCalculation, setCurrentCalculation] = useState("0");
+  
+  function plus(e) { 
+    doOp(e, "+");
+  }; 
  
   function plus(e) { 
-    e.preventDefault(); 
-    setResult((result) => result + Number(inputRef.current.value)); 
-    // Clear the input field after the operation
-    inputRef.current.value = "";
+    doOp(e, "+");
   }; 
  
   function minus(e) { 
-  	// Add the code for the minus function 
+  	doOp(e, "-");
   };
  
   function times(e) { 
-    // Add the code for the plus function 
+    doOp(e, "*");
   }; 
  
   function divide(e) { 
-    // Add the code for the divide function 
+    doOp(e, "/");
   };
  
   function resetInput(e) { 
-    // Add the code for the resetInput function 
-  }; 
+    e.preventDefault();
+   // Clear the input field
+   inputRef.current.value = "";
+   inputRef.current.focus();
+ }; 
+ 
+  function resetInput(e) { 
+    e.preventDefault();
+   // Clear the input field
+   inputRef.current.value = "";
+   inputRef.current.focus();
+ }; 
+
  
   function resetResult(e) { 
-  	// Add the code for the resetResult function
+  	// Clear the result field
     setResult(0);
   }; 
 
-  function doOperation(e) {
-    e.preventDefault();
+  function doOp(e, operator) {
+    console.log("doOp", operator);
+    e.preventDefault(); // disable the default behavior of the form
 
+    // recalculate the currentCalculation
+    let currentCalculation = result + " " + operator + " " + inputRef.current.value; 
+
+    // set the value in order to be displayed
+    setCurrentCalculation(currentCalculation); // update currentCalculation
+    
+    let currentNumber = Number(inputRef.current.value); // value entered 
+    let currentResult = result; // keep track of currentResult 
+    let newResult = 0;
+    switch (operator) {
+      case "+":
+        newResult = currentResult + currentNumber;
+        break;
+      case "-":
+        newResult = currentResult - currentNumber;
+        break;
+      case "*":
+        newResult = currentResult * currentNumber;
+        break;
+      case "/":
+        newResult = currentResult / currentNumber;
+        break;
+      default:
+        newResult = currentNumber;
+    }
+    setResult(newResult);
+    resetInput(e);
   }
  
   return ( 
@@ -50,27 +92,24 @@ function App() {
         <h1>Simplest Working Calculator</h1> 
       </div> 
       <form> 
+        <p>
+          Current calculation: {currentCalculation}
+        </p>
         <p ref={resultRef}> 
           Result: {result} 
-        </p>
-        <div className="input_processor">
-          <input
-            pattern="[0-9]" 
-            ref={inputRef} 
-            type="number" 
-            placeholder="Type a number" 
-         /> 
-         <button onClick={doOperation}>=</button>
-         </div>
-        
-  
+        </p> 
+        <input
+          pattern="[0-9]" 
+          ref={inputRef} 
+          type="number" 
+          placeholder="Type a number" 
+        /> 
         <button onClick={plus}>add</button> 
         <button onClick={minus}>subtract</button> 
         <button onClick={times}>multiply</button> 
         <button onClick={divide}>divide</button> 
-
-        <button onClick={resetInput}>reset input</button>
-        <button onClick={resetResult}>reset result</button>
+        <button onClick={resetInput}>reset input</button> 
+        <button onClick={resetResult}>reset result</button> 
       </form> 
     </div> 
   ); 
