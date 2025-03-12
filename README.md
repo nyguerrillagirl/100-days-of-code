@@ -1,11 +1,16 @@
 # I've joined the #100DaysOfCode Challenge
 
+## Note: I am actually into 200 days of code! 
+
 ## My personal notes
 I decided to change the repository from a fork to a personal repository, since
 it does not mark the work I do in the "Contribution Activity" chart as a fork.
 
 I also decided to put all the projects (e.g. Python Workshop work) I work on
-under this umbrella.  The log.md will still be used to mark progress.
+under this umbrella.  The log.md will still be used to mark every dat progress.
+
+Another note: Check log.md - first 100 days
+                    log200.md - the next 100 days
  
 ## Contents
 
