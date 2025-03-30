@@ -1,3 +1,6 @@
 [submodule "src/udemy_courses/sfg-thymeleaf-course"]
 	path = src/udemy_courses/sfg-thymeleaf-course
 	url = https://github.com/nyguerrillagirl/sfg-thymeleaf-course.git
+[submodule "src/cpp_projects/flappy_bird"]
+	path = src/cpp_projects/flappy_bird
+	url = https://github.com/nyguerrillagirl/flappy_bird.git
