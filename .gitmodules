@@ -7,3 +7,9 @@
 [submodule "src/super-mario-kart"]
 	path = src/super-mario-kart
 	url = https://github.com/vmbatlle/super-mario-kart.git
+[submodule "src/cpp_projects/libre_sprite"]
+	path = src/cpp_projects/libre_sprite
+	url = https://github.com/nyguerrillagirl/LibreSprite.git
+[submodule "src/java_projects/http-server"]
+	path = src/java_projects/http-server
+	url = https://github.com/nyguerrillagirl/Http-Server.git
