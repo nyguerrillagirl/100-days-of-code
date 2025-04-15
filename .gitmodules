@@ -13,3 +13,6 @@
 [submodule "src/java_projects/http-server"]
 	path = src/java_projects/http-server
 	url = https://github.com/nyguerrillagirl/Http-Server.git
+[submodule "src/react_projects/react-in-depth"]
+	path = src/react_projects/react-in-depth
+	url = https://github.com/React-in-Depth/react-in-depth.git
